@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Shevy%20Kumar&fontSize=42&fontColor=00FFD1&animation=twinkling&fontAlignY=32&desc=BCA%20%7C%20MCA%20%7C%20AI%20Explorer%20%7C&descAlignY=55&descSize=18&descColor=ffffff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Shevy%20Kumar&fontSize=42&fontColor=00FFD1&animation=twinkling&fontAlignY=32&desc=BCA%20%7C%20MCA%20%7C%20AI%20Explorer%20%&descAlignY=55&descSize=18&descColor=ffffff" width="100%"/>
 
 <div align="center">
 
@@ -124,7 +124,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shevy-kumar-b4aa49260)
 [![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shevyarora2003)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/shevykumar26)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+
 
 </div>
 
